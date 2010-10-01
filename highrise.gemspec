@@ -4,7 +4,7 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name = %q{highrise}
+  s.name = %q{rogerio-augusto-highrise}
   s.version = "2.0.1"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
@@ -45,6 +45,7 @@ Highrise::Base.user = 'your_api_auth_token'
      "lib/highrise/comment.rb",
      "lib/highrise/company.rb",
      "lib/highrise/deal.rb",
+     "lib/highrise/deal_category.rb",
      "lib/highrise/email.rb",
      "lib/highrise/group.rb",
      "lib/highrise/kase.rb",
@@ -63,6 +64,7 @@ Highrise::Base.user = 'your_api_auth_token'
      "spec/highrise/comment_spec.rb",
      "spec/highrise/company_spec.rb",
      "spec/highrise/deal_spec.rb",
+     "spec/highrise/deal_category_spec.rb",
      "spec/highrise/email_spec.rb",
      "spec/highrise/group_spec.rb",
      "spec/highrise/kase_spec.rb",
@@ -90,6 +92,7 @@ Highrise::Base.user = 'your_api_auth_token'
      "spec/highrise/comment_spec.rb",
      "spec/highrise/company_spec.rb",
      "spec/highrise/deal_spec.rb",
+     "spec/highrise/deal_category_spec.rb",
      "spec/highrise/email_spec.rb",
      "spec/highrise/group_spec.rb",
      "spec/highrise/kase_spec.rb",
