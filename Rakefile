@@ -6,7 +6,7 @@ require 'spec/rake/spectask'
 begin
   require 'jeweler'
   Jeweler::Tasks.new do |gemspec|
-    gemspec.name = "highrise"
+    gemspec.name = "rogerio-augusto-highrise"
     gemspec.summary = "Ruby wrapper around Highrise API"
     gemspec.email = ["marcos@tapajos.me", "kmayer@bitwrangler.com"]
     gemspec.homepage = "http://github.com/tapajos/highrise"
