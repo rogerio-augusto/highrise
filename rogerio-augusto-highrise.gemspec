@@ -58,6 +58,7 @@ Highrise::Base.user = 'your_api_auth_token'
      "lib/highrise/taggable.rb",
      "lib/highrise/task.rb",
      "lib/highrise/user.rb",
+     "rogerio-augusto-highrise.gemspec",
      "spec/cachable_spec.rb",
      "spec/highrise/account_spec.rb",
      "spec/highrise/base_spec.rb",
